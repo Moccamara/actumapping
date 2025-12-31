@@ -281,3 +281,4 @@ st.markdown("""
 **Mahamadou CAMARA, PhD – Geomatics Engineering** © 2025
 """)
 
+
